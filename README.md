@@ -1,2 +1,2 @@
-# UM_Denials_PowerBI
-Healthcare UM and denial analytics project
+# UM_Prior_Auth_PowerBI
+Healthcare UM and Prior Auth analytics project
