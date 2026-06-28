@@ -50,7 +50,5 @@ Office Visits maintain high claim volume while consistently remaining below the 
 
 ## Files  
 - Power BI report (.pbix)  
-- PDF export of dashboard  
+- 📄 [Power BI Dashboard (PDF)](./Healthcare_Claims_Analytics_v2.pdf)
 
-## View Project  
-(Add link here once uploaded or shared via OneDrive/Google Drive)
