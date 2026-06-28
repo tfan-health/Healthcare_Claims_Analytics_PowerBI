@@ -31,9 +31,14 @@ The dataset represents synthetic healthcare authorization records designed to si
 ---
 
 ## Key Insights  
-- Majority of authorization requests are approved, indicating relatively stable approval flow  
-- Decision time varies by procedure type, suggesting operational differences in workflow complexity  
-- Certain procedures consistently drive higher authorization volume, indicating key workload areas  
+**High-Volume Imaging Risk**:
+Imaging combines high claim volume with one of the highest denial rates (~21%), making it the primary candidate for workflow and documentation review.
+
+**Therapy & Surgery Friction**:
+Physical Therapy and Surgery cluster at lower claim volumes but consistently higher denial rates (17–24%), suggesting these services warrant targeted investigation for authorization or billing challenges.
+
+**Office Visit Stability**:
+Office Visits maintain high claim volume while consistently remaining below the average denial rate, indicating a stable and well-performing claims process.
 
 ---
 
