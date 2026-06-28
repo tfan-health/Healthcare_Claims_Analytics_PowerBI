@@ -46,9 +46,10 @@ Office Visits maintain high claim volume while consistently remaining below the 
 - Power BI  
 - DAX (Data Analysis Expressions)  
 - Data modeling (star schema approach)
+  
 ---
 
-## Files  
-- Power BI report (.pbix)  
-- 📄 [Power BI Dashboard (PDF)](./Healthcare_Claims_Analytics_portfolio.pdf)
+## Files
+- 📄 [Dashboard PDF](./Healthcare_Claims_Analytics_portfolio.pdf)
+- 📊 [Power BI Report (.pbix)](./Healthcare_Claims_Analytics_portfolio.pbix)
 
